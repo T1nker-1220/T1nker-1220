@@ -1,25 +1,14 @@
-<div align="center">
-
 # 👋 Hi there, I'm Nathaniel!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI-Assisted+Development+Expert;MCP+Server+Architect;Python+%26+TypeScript+Enthusiast;Building+the+Future+with+AI" alt="Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=100%&lines=Full+Stack+Developer;AI-Assisted+Development+Expert;MCP+Server+Architect;Python+%26+TypeScript+Enthusiast;Building+the+Future+with+AI" alt="Typing SVG" />
 
 ### 🚀 **Passionate Full Stack Developer from the Philippines**
-
 **🎓 BS Information Technology Graduate | 🌟 AI-Assisted Development Advocate | 🔧 MCP Server Specialist**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-marquez.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marquezjohnnathanieljade@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-nathaniel-marquez-866522334)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@t1nkergaming731)
-
-</div>
 
 ---
 
@@ -28,10 +17,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=T1nker-1220&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1nker-1220&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T1nker-1220&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
